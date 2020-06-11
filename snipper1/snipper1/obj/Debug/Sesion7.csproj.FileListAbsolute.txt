@@ -1,0 +1,7 @@
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\bin\Debug\snipper1.exe.config
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\bin\Debug\snipper1.exe
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\bin\Debug\snipper1.pdb
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\obj\Debug\Sesion7.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\obj\Debug\Sesion7.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\obj\Debug\snipper1.exe
+C:\Users\asus\Downloads\ss5\snipper1\snipper1\obj\Debug\snipper1.pdb
