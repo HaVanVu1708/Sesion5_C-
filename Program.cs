@@ -4,30 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace snipper1
+namespace snipper4
 {
     class Program
     {
-      
         static void Main(string[] args)
         {
-            //Dog objDog = new Dog();
-            //objDog.Eat();
-            //objDog.Feature();
-            //objDog.Noise();
-            //Console.ReadLine();
-            //
-            //Cat objCat = new Cat();
-            //objCat.Meo();
-            //objCat.DoSomething();
-            //Console.ReadLine();
-            //
-            Cat objcat = new Cat();
-            objcat.Food = "Mouse";
-            objcat.Activity = "laze around";
-            Console.WriteLine("The Cat loves to eat " + objcat.Food + ".");
-            Console.WriteLine("The Cat loves to " + objcat.Activity + ".");
-            Console.ReadLine();
+            int[] count = new int[10];
+            int counter = 0;
+            for (int i = 0; i < 10; i++)
+            {
+                count[i] = counter++;
+                Console.WriteLine("The count value is: " + count[i]);
+            }
         }
     }
 }
